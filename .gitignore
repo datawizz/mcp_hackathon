@@ -36,3 +36,11 @@ logs/
 .Trashes
 ehthumbs.db
 Thumbs.db 
+
+# Python virtual environments
+venv/
+env/
+autogen_env/
+*.pyc
+__pycache__/
+.pytest_cache/

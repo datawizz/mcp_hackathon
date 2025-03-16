@@ -1,0 +1,4 @@
+pyautogen==0.2.3
+pydantic>=1.10.8,<2.0.0
+pymupdf==1.23.5
+openai>=0.28.1,<1.0.0 
